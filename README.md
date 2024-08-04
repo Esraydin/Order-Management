@@ -3,7 +3,7 @@
 
 ## Project Description
 
-The Company Order Management System is designed to facilitate the management of company orders through a robust backend API. This API will be the core of the application, allowing future expansions such as a Blazor-based admin panel. The project is built with scalability and extensibility in mind, starting with Phase 1.
+The Company Order Management System is designed to facilitate the management of company orders through a robust backend API. This API will be the core of the application, allowing future expansions such as a Blazor-based admin panel.
 
 ### Key Features:
 
